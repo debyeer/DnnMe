@@ -1,5 +1,4 @@
-# Dnnme2
+# DnnMe
 New version of telegram deanonymization bot 
-Author:Telegram @lamer112311 
-Telegram channel @cyber_puffin
-Full documentation https://telegra.ph/Sozdaem-bota-dlya-deanonimizacii-04-26
+Author:Telegram @corey_blake
+Telegram channel @companyantiscam
